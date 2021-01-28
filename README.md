@@ -14,5 +14,6 @@ A programozás **óra** alapján készült ez a *formázott* szöveg
 3. lista elem
 
 ## Linkek
-[w3schools]:(https://www.w3schools.com)
+[w3schools]:(https://www.w3schools.com/)
+[1]: http://slashdot.org
 
